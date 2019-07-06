@@ -1,4 +1,3 @@
-ECS175 PROJECT 4:
 
 |***************|
 | INSTRUCTIONS: |
