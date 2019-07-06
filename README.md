@@ -1,14 +1,10 @@
 ECS175 PROJECT 4:
-Name: Marcos Alcantar
-Student ID: 913133174
-email: mualcantar@ucdavis.edu
 
 |***************|
 | INSTRUCTIONS: |
 |***************|
 
-1) Once the file is unzipped, navigate to the directory containing all the project files "mualcant91313317" and
-   type in the command "make" to compile the program.
+1) Type in the command "make" to compile the program.
 
 2) Run the executable file using the command "./p4.out"
 
@@ -129,3 +125,14 @@ email: mualcantar@ucdavis.edu
   de Boor Algorithm in curves.cpp, lines 138-172,                               (deBoorAlgorithmPoint function)  
   NDC mapping conversions in curves.cpp, lines 7-36,                            (convertWCtoPP function)
   Resolution line calculations in curves.cpp, lines 76-93, 174-199              (calculateCurvePoints functions) 
+  
+|**************|
+| SCREENSHOTS: |
+|**************|
+
+Command Line Interface:
+![alt text](https://github.com/marcosa97/CurveDrawer/blob/master/curve_drawer_cl.png)
+
+
+Window where curves are drawn:
+![alt text](https://github.com/marcosa97/CurveDrawer/blob/master/curve_drawer.png)
